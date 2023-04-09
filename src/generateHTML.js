@@ -92,3 +92,4 @@ function generateHTML(data) {
     return pageHTML;
 }
 
+module.exports = generateHTML; 
